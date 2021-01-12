@@ -1,0 +1,5 @@
+/* pages/a/a.wxss */
+view{
+  height: 2000px;
+  background-color: #6699cc;
+}
